@@ -1,0 +1,11 @@
+{
+  "schema": "waymarker.export_manifest.v1",
+  "tool": "Waymarker",
+  "toolVersion": "0.9",
+  "createdUtc": "2026-01-12T04:59:18.720539Z",
+  "files": [
+    "tracks/telemetry.track.v1.json",
+    "events/events.facts.v1.json",
+    "narrative/chapters.v1.json"
+  ]
+}

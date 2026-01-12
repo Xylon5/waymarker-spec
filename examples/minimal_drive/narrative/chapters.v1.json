@@ -1,0 +1,14 @@
+{
+  "schema": "waymarker.chapters.v1",
+  "chapters": [
+    {
+      "type": "narr.chapter.drive_segment",
+      "eventRefs": [
+        "evt-1"
+      ],
+      "atSec": 0,
+      "endSec": 120,
+      "title": "City drive"
+    }
+  ]
+}

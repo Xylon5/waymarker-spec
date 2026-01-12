@@ -1,0 +1,12 @@
+{
+  "schema": "waymarker.events.facts.v1",
+  "events": [
+    {
+      "id": "evt-1",
+      "type": "fact.drive.segment.city",
+      "startSec": 0,
+      "endSec": 120,
+      "confidence": 0.8
+    }
+  ]
+}

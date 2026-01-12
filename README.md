@@ -1,13 +1,15 @@
 # Waymarker Specification
 
-Waymarker is an open, explainable standard for deriving *narratives* from heterogeneous evidence
-(video, audio, telemetry, documents, web sources).
+The Waymarker Specification defines an **open, vendor-neutral standard**
+for representing *narratives derived from evidence over time*.
 
-This repository defines **schemas, type conventions, and architectural principles**.
-It does **not** define implementations.
+Waymarker is **not** a storytelling engine.
+It is a framework for making *how stories are constructed from data*
+transparent, explainable, and reproducible.
 
-Core principles:
-- Explainability over automation
-- Evidence and uncertainty first
-- Separation of fact, interpretation, and narrative
-- Offline-first, host-agnostic design
+This repository contains:
+- conceptual documentation
+- normative rules and schemas
+- examples of compliant exports
+
+It intentionally contains **no implementation code**.

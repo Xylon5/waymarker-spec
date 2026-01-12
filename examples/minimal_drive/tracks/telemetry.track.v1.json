@@ -1,0 +1,15 @@
+{
+  "schema": "telemetry.track.v1",
+  "points": [
+    {
+      "tOffsetSec": 0,
+      "lat": 48.1,
+      "lon": 11.5
+    },
+    {
+      "tOffsetSec": 60,
+      "lat": 48.11,
+      "lon": 11.52
+    }
+  ]
+}
