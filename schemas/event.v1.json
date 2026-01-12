@@ -1,0 +1,13 @@
+{
+  "schema": "waymarker.event.v1",
+  "fields": {
+    "id": "string",
+    "type": "string",
+    "layer": "fact|interp|narr",
+    "startSec": "number?",
+    "endSec": "number?",
+    "confidence": "number?",
+    "eventRefs": "array?",
+    "evidenceRefs": "array?"
+  }
+}

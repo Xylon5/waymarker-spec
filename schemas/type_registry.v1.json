@@ -1,0 +1,12 @@
+{
+  "schema": "waymarker.type_registry.v1",
+  "layers": [
+    "fact",
+    "interp",
+    "narr"
+  ],
+  "rules": {
+    "narr_requires_refs": true,
+    "fact_forbids_editorial": true
+  }
+}

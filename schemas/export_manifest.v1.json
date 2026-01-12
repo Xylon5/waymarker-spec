@@ -1,0 +1,10 @@
+{
+  "schema": "waymarker.export_manifest.v1",
+  "fields": {
+    "tool": "string",
+    "toolVersion": "string",
+    "createdUtc": "datetime",
+    "contentHash": "sha256",
+    "files": "array"
+  }
+}
